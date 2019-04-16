@@ -1,0 +1,35 @@
+body{
+    background-color: blueviolet;
+    padding-top: 15px;
+    margin-left: 40%; 
+}
+
+h2{
+
+    color: white;
+}
+
+#task{
+	height: 30px;
+	width: 200px;
+	font-size: 19px;
+	border: none;
+	border-bottom: 1px solid black;
+	font-family: Verdana;
+}
+
+#app{
+
+}
+
+#add-button{
+	height: 30px;
+	width: 200px;
+    padding:3px 0 6px 0;
+	font:bold 13px Arial;
+	background:#478bf9;
+	color:#fff;
+	border-radius:2px;
+	width:100px;
+	border:none;
+}
